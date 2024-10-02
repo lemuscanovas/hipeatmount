@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hipeatmount.github.io/sitemap.xml
